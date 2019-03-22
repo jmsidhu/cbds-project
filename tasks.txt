@@ -1,0 +1,2 @@
+1) see why i am getting these git errors
+  2) is it because I am using Rstudio.cloud
